@@ -1,1 +1,1 @@
-# gitlab-ci-k8s-demo
+# gitlab-java-demo
